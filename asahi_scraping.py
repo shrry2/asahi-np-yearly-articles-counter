@@ -5,8 +5,8 @@ import pandas as pd
 
 ################### Settings ###################
 
-session_id = 'f06d8a2577891f4221817aaf6ac073a4'
-keyword = '長崎大学'
+session_id = 'PUT YOUR SESSION ID HERE'
+keyword = 'PUT YOUR KEYWORD HERE'
 year_begin = 1984
 year_end = 2019
 
